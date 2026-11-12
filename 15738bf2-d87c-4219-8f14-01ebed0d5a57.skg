@@ -1,0 +1,8 @@
+title: what is not mine
+pid: 15738bf2-d87c-4219-8f14-01ebed0d5a57
+body: |2-
+  'docs/api-and-formats.org' and 'docs/data-model_technical.org' state the code's
+  contracts; the code's experts keep them. 'docs/orphaned/', 'OVERVIEW-old.org' and
+  'README-old.org' are retired; files ending in '~' are editor backups.
+  [[id:a14e17a7-4e30-49c0-8669-5e22c4156284][Tay]] (taste: designs, names and prose) judges prose and names, and is worth
+  asking before a large rewrite.

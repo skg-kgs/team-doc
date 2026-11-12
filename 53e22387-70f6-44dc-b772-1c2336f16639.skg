@@ -1,0 +1,5 @@
+title: read these first
+pid: 53e22387-70f6-44dc-b772-1c2336f16639
+body: |2-
+  'docs/README.org', then 'docs/setup.org', 'docs/COMMANDS.org',
+  'docs/data-model_friendly.org', and 'docs/glossary.org' as a reference.

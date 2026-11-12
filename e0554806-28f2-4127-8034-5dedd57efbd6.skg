@@ -1,0 +1,8 @@
+title: what is mine
+pid: e0554806-28f2-4127-8034-5dedd57efbd6
+body: |2-
+  'docs/README.org', 'setup.org', 'usage.org', 'FAQ.org'; 'COMMANDS.org' (Emacs),
+  'COMMANDS-nvim.org' and 'nvim-client-deviations.org' (Neovim); 'heralds.org';
+  'data-model_friendly.org'; 'glossary.org'; 'diff-view.org'; 'forks.org', 'merging.org',
+  'override.org', 'telescopes.org', 'sharing-model.org', 'moving-nodes-across-repos.org';
+  and the short essays 'docs/README.org' links ('this-is-awesome.org' and its siblings).

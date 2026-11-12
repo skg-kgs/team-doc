@@ -1,0 +1,13 @@
+title: my territory, and where to start reading
+pid: f22b55f0-898d-4838-83e3-e4301342f2a5
+body: |2-
+  True as of commit 4c475f48 of the code repo, '/home/ubuntu/host'. 'git log 4c475f48..HEAD -- PATH' shows what may have changed since.
+  With Jeff I keep the documentation a user reads. I write from what a user sees
+  and does, and I do not read the code to learn it: other specialists own the code,
+  and a fact I need from it is a question for them. The entry page is
+  'docs/README.org'; the project has no README at its root.
+contains:
+- e0554806-28f2-4127-8034-5dedd57efbd6
+- 15738bf2-d87c-4219-8f14-01ebed0d5a57
+- 53e22387-70f6-44dc-b772-1c2336f16639
+- 10bb9e33-b0f8-4a2a-a748-1d50338c587a

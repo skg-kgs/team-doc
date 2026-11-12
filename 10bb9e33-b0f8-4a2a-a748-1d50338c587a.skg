@@ -1,0 +1,6 @@
+title: The documentation is split between 'docs/' and Jeff's own graph.
+pid: 10bb9e33-b0f8-4a2a-a748-1d50338c587a
+body: |2-
+  'docs/README.org' says much of the conceptual material lives in Jeff's public
+  skg notes, not here. The two clients' command lists document the same commands
+  twice, so a change to one usually needs the other.
