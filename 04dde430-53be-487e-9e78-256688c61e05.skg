@@ -1,5 +1,0 @@
-title: 'Fix setup''s Docker step: name the file that describes the container now, or put its commands on the page.'
-pid: 04dde430-53be-487e-9e78-256688c61e05
-body: |2-
-  'bash/docker.sh', which 'setup.org' and 'usage.org' name, is not in
-  the repository. This is the first stop nobody passes by reading.

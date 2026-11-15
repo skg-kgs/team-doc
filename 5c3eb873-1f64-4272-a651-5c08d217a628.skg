@@ -1,6 +1,0 @@
-title: 'Make the data folder setup''s step before the server: copy ''example-data/'' to ''data/YOURNAME/'', and pass that config to the server and the client.'
-pid: 5c3eb873-1f64-4272-a651-5c08d217a628
-body: |2-
-  Today the page starts the server first, on Jeff's config, which a
-  stranger does not have. Needs 'example-data/' to name no missing
-  skgrepo.
