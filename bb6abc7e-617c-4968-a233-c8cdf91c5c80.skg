@@ -1,8 +1,0 @@
-title: No page in 'docs/' says how to start the Neovim client, and 'docs/README.org' links only the Emacs command list.
-pid: bb6abc7e-617c-4968-a233-c8cdf91c5c80
-body: |2-
-  'setup.org' names Neovim once, for a warnings buffer. Its setup,
-  two lines, is in 'nvim/README.org'; 'COMMANDS-nvim.org' is reached
-  from 'docs/README.org' only through the glossary or the protocol.
-  Change: put the two lines in 'setup.org' beside the Emacs snippet,
-  and link 'COMMANDS-nvim.org' beside 'COMMANDS.org'.
