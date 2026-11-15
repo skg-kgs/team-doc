@@ -1,0 +1,17 @@
+title: Setup starts the server before the reader has a config, and the config it defaults to is Jeff's, which the repository does not hold.
+pid: e0d95c9b-2f22-47de-8d75-ecf64b16b897
+body: |2-
+  "start the Skg server" comes before "set up your data folder", and
+  without an argument the script uses 'data/jeff/skgconfig.toml';
+  'data/jeff/' is Jeff's own data and is not in the repository, and the
+  client's snippet loads the same config. "set up your data folder"
+  then says "See example-data/ for how" and goes on to migrating from
+  'owned_folder' and two users sharing one data tree, before the
+  reader has any data. It also uses 'skgrepo' throughout, a word
+  defined only in 'data-model_friendly.org', which 'docs/README.org'
+  lists after setup, and which never says what a skgrepo is on disk.
+  Change: make the data folder the step before the server, in two
+  sentences: a skgrepo is a folder of '.skg' files, one per note,
+  best kept as a git repository; copy 'example-data/' to
+  'data/YOURNAME/' and give that config to the server and the client.
+  Move migrating and sharing a data tree to a later page.

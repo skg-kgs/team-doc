@@ -1,7 +1,7 @@
 title: my territory, and where to start reading
 pid: f22b55f0-898d-4838-83e3-e4301342f2a5
 body: |2-
-  True as of commit 4c475f48 of the code repo, '/home/ubuntu/host'. 'git log 4c475f48..HEAD -- PATH' shows what may have changed since.
+  True as of commit f50eb4e0 of the code repo, '/home/ubuntu/host'. 'git log f50eb4e0..HEAD -- PATH' shows what may have changed since.
   With Jeff I keep the documentation a user reads. I write from what a user sees
   and does, and I do not read the code to learn it: other specialists own the code,
   and a fact I need from it is a question for them. The entry page is

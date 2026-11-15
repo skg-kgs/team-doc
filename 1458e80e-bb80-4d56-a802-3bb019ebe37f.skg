@@ -1,0 +1,6 @@
+title: No README sits at the repository's root, so a stranger on its front page is not told to open 'docs/README.org'.
+pid: 1458e80e-bb80-4d56-a802-3bb019ebe37f
+body: |2-
+  Change: a root README of three lines: what skg is, in Jeff's sentence
+  "Skg is software for manipulating and sharing knowledge.", and a link
+  to 'docs/README.org'.

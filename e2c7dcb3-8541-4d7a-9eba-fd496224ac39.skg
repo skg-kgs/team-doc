@@ -1,0 +1,4 @@
+title: Reorder 'docs/README.org' to open with what skg is, the pitch, setup and commands, and move the algebra, the meditation and "only useable with the help of AI" below them.
+pid: e2c7dcb3-8541-4d7a-9eba-fd496224ac39
+body: |2-
+  And link 'vocabulary.org', 'FAQ.org' and 'COMMANDS-nvim.org' from it.

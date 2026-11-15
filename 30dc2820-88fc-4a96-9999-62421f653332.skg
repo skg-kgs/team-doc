@@ -1,0 +1,18 @@
+title: After setup, "Now you can use it" sends the reader to a reference that opens on refused saves, and no page says how to make a first note.
+pid: 30dc2820-88fc-4a96-9999-62421f653332
+body: |2-
+  'COMMANDS.org' spends its first ninety lines on conflicts between
+  views, baselines, recovering a refused save, Hoist, overPrivateText
+  telescopes and "skgsave-committed": none of it met before. That a
+  note is a headline, that C-c v e opens an empty view to write one
+  in, and that a save asks which skgrepo a new root goes in, no page
+  puts together; C-c v e sits under "view changes, global", and its
+  "why" speaks of ghosts, tombstones and unknown viewnodes. What the
+  client shows just after it starts I could not tell. A first link is
+  findable once one knows search is 'C-c f': C-c f l, search then link,
+  is plain.
+  Change: a short page, "your first ten minutes", linked from that line
+  of setup: a small ordinary tree drawn (the dentist of
+  'data-model_friendly.org' would do (d)), and the keys that make,
+  save, find, open and link it: C-c v e, C-x C-s, C-c f RET,
+  C-c g RET, C-c f l. Then 'COMMANDS.org' for the rest.

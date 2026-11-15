@@ -1,0 +1,28 @@
+title: A stranger who starts at 'docs/README.org' with no AI stops first at its opening, and for good at setup's first step, which names a file that is not there.
+pid: b249fb9b-ac00-4c87-802f-a3de697c41b6
+body: |2-
+  Read on 2026-11-15 at commit f50eb4e0, as someone who has heard skg
+  is worth trying, knows Emacs or Neovim and Org, and has no AI and
+  nobody to ask, going from installing it to a first note, a first
+  link, and a first view of someone else's notes. I installed nothing,
+  and read no code, nor the scripts the pages send the reader to.
+  The stops are below in the order the reader meets them, each with
+  what would carry the reader past it. The measure was Tay's
+  [[id:ea18ac3f-6f8a-43bb-a6bc-3279c417e9ca][How he explains to a stranger: eight habits]]; a letter in brackets, as (c), names one of them.
+  The first hard stop is the fourth: until the Docker step is fixed,
+  nothing after it is reached by anyone reading alone.
+contains:
+- 1458e80e-bb80-4d56-a802-3bb019ebe37f
+- 3e3a84c1-48b0-40b4-8bd3-96779a29f063
+- 700be5f2-07a5-4fd1-989d-d984cebe126f
+- 0126cbac-d8a3-40be-ac7c-8868412858be
+- e0d95c9b-2f22-47de-8d75-ecf64b16b897
+- 2bcbe483-ac15-4a57-9b69-8bd70495b4ff
+- 502f8a07-a466-48f5-b36b-8ed228d614db
+- bb6abc7e-617c-4968-a233-c8cdf91c5c80
+- 30dc2820-88fc-4a96-9999-62421f653332
+- 3079757c-5eab-4f2b-a70e-a2444e2ef1a2
+- f2774a7d-4715-47f0-90c4-71f8d73e6406
+- cfe2b61e-4c1b-42cf-b2b4-050079cd2955
+- fccbcb34-6d49-4561-b21a-bc35281de3ba
+- 9e9e9071-0f6a-4883-ac31-ca17465cbfc4

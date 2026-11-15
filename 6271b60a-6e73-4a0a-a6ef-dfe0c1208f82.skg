@@ -1,0 +1,5 @@
+title: Must a skgrepo be a git repository for a first day's use, or only for the diff view and commits?
+pid: 6271b60a-6e73-4a0a-a6ef-dfe0c1208f82
+body: |2-
+  For Vic, who owns version control. 'example-data/README.md' says
+  only "Hopefully, each will be a git repo."
